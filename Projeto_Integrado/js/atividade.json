@@ -1,0 +1,33 @@
+[
+    {
+        
+        "nome": "Pizza de Calabresa",
+        "preco": 20
+        
+    },
+    {
+        "nome": "Pizza de Mussarela",
+        "preco": 21
+
+    },
+    {
+        "nome": "Pizza de atum",
+        "preco": 22
+
+    },
+    {
+        "nome": "Pizza de Peperoni",
+        "preco": 23
+
+    },
+    {
+        "nome": "Pizza de chocolate",
+        "preco": 24
+
+    },
+    {
+        "nome": "Pizza de Frango",
+        "preco": 25
+
+    }
+]
