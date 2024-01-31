@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url('../images/imagem-ge.jfif');
+    min-height: 100vh;
+    padding: 30px 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.logo {
+    position: relative;
+    background-image: url('../images/avi.png');
+    z-index: 2;
+    background-size: 100% 100%;
+    width: 160px;
+    height: 160px;
+    float: left;
+}
+
+.menu-desktop {
+    float: right;
+    margin-top: 17px;
+    margin-right: 70px;
+}
+
+.menu-desktop ul {
+
+    list-style: none;
+
+}
+
+.menu-desktop li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+nav.menu-desktop a {
+    color: black;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Ysabeau SC', sans-serif;
+    
+}
+
+.chamada {
+    padding: 150px 0;
+}
+
+.chamada h2 {
+    color: black;
+    font-size: 90px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Ysabeau SC', sans-serif;
+    margin-left: 240px;
+    position: relative;
+    bottom: 140px;
+}
